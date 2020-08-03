@@ -1,0 +1,3 @@
+# F103_tim1_pwm
+
+F103 chip is used to generate multi-channel PWM.There are variations of PWM and SPWM.Multi-channel PWM output, can jump out of the moving line under the software oscilloscope, beautiful
